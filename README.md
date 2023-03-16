@@ -6,7 +6,7 @@
 <a href="https://github.com/Aeolus">
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a>
+<a href="https://space.bilibili.com/28316728?spm_id_from=333.1007.0.0">
 <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
 </a>
 <br />
