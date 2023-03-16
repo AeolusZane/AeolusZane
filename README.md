@@ -34,9 +34,9 @@ Hi, I'm Aeolus, I am a front end engineer. I like to study code, like to build w
 
 
 <a href="https://github.com/AeolusZane/cloudflare">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RedJue&repo=git-commit-plugin" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare" />
 </a>
 
 <a href="https://github.com/AeolusZane/cloudflare-backend">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RedJue&repo=vue-crop-image-mobile" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare-backend" />
 </a>
