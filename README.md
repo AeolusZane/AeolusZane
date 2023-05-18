@@ -9,7 +9,7 @@
 <a href="https://space.bilibili.com/28316728?spm_id_from=333.1007.0.0">
 <img align="left" alt="bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
 </a>
-<a href="https://www.notion.so/Aeolus-s-Home-bd10e76e50364f1aa33d3cd343ef6f6f">
+<a href="[https://www.notion.so/Aeolus-s-Home-bd10e76e50364f1aa33d3cd343ef6f6f](https://cookie-tumbleweed-6a4.notion.site/Aeolus-s-Home-bd10e76e50364f1aa33d3cd343ef6f6f)">
   <img align="left" alt="notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg"/>
  </a>
 <br />
