@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm Aeolus, I am a front end engineer. I like to study code, like to build wheels, and have a neat mania for code. I am very optimistic about the development of Web, and I am also working on the research of Web technology. Moreover, I am trying to learn about web3 recently.
+Hi, I'm Aeolus, I am a front end engineer. I like to study code, like to build wheels, and have a neat mania for code. I am very optimistic about the development of Web, and I am also working on the research of Web technology. Moreover, I am learning web3 recently.
 
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/DyQrKMpqkAhNHZ1iWe/giphy.gif" width="200" height="200"/>
 <br/>
