@@ -46,11 +46,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<h1 align="center">Projects I Like </h1>
+
+<p align="center"> 
+<a href="https://github.com/AeolusZane/cloudflare-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" height="120px"/>
+</a>
 
 <a href="https://github.com/AeolusZane/cloudflare">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare" height="130px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare" height="120px"/>
 </a>
-
-<a href="https://github.com/AeolusZane/cloudflare-backend">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare-backend" height="130px"/>
-</a>
+</p>
