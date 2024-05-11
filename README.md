@@ -16,10 +16,10 @@
 <br />
 
 ![AeolusZane's github stats](https://github-readme-stats.vercel.app/api?username=AeolusZane&show_icons=true&count_private=true&hide=issues,contribs&theme=react)
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/DyQrKMpqkAhNHZ1iWe/giphy.gif" width="200" height="200"/>
 
 Hi, I'm Aeolus, I am a front end engineer. I like to study code, like to build wheels, and have a neat mania for code. I am very optimistic about the development of Web, and I am also working on the research of Web technology. Moreover, I am learning web3 recently.
 
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/DyQrKMpqkAhNHZ1iWe/giphy.gif" width="200" height="200"/>
 <br/>
 
 ![AeolusZane's github stats1](https://streak-stats.demolab.com?user=AeolusZane&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000)
