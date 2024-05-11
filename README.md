@@ -50,10 +50,10 @@
 
 <p align="left"> 
 <a href="https://github.com/AeolusZane/cloudflare-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" height="120px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" height="100px"/>
 </a>
 
 <a href="https://github.com/AeolusZane/cloudflare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare" height="120px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare" height="100px"/>
 </a>
 </p>
