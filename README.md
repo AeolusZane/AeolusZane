@@ -46,7 +46,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h1 align="center">Projects I Like </h1>
+<h1 align="center">Recent Projects</h1>
 
 <p align="center"> 
 <a href="https://github.com/AeolusZane/cloudflare-backend">
