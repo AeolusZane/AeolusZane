@@ -1,5 +1,8 @@
-### Hey 👋🏽, I'm Aeolus！
+<h1 align="center">Hey 👋, I'm Aeolus! </h1>
 
+<p>
+  Hi, I'm Aeolus, I am a front end engineer. I like to study code, like to build wheels, and have a neat mania for code. I am very optimistic about the development of Web, and I am also working on the research of Web technology. Moreover, I am learning web3 recently.
+</p>
 <a href="https://twitter.com/pingfj77">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,16 +17,22 @@
  </a>
 <br />
 <br />
+<p align="left">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=AeolusZane&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="Mubashir's GitHub streak"/>
+    <img align="right" alt="GIF" src="https://media1.giphy.com/media/DyQrKMpqkAhNHZ1iWe/giphy.gif" width="380" height="380"/>
+</p>
+<p align="left">
+  <a href="https://github.com/aeoluszane">
+    <img width="500px" src="https://streak-stats.demolab.com?user=AeolusZane&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Mubashir's GitHub streak"/>
+  </a>
+</p>
 
-![AeolusZane's github stats](https://github-readme-stats.vercel.app/api?username=AeolusZane&show_icons=true&count_private=true&hide=issues,contribs&theme=react)
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/DyQrKMpqkAhNHZ1iWe/giphy.gif" width="200" height="200"/>
 
-Hi, I'm Aeolus, I am a front end engineer. I like to study code, like to build wheels, and have a neat mania for code. I am very optimistic about the development of Web, and I am also working on the research of Web technology. Moreover, I am learning web3 recently.
+
+
+
 
 <br/>
-
-![AeolusZane's github stats1](https://streak-stats.demolab.com?user=AeolusZane&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000)
-
 
 **Languages and Tools:**  
 
