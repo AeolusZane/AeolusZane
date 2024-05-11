@@ -48,7 +48,7 @@
 
 <h1 align="center">Recent Projects</h1>
 
-<p align="center"> 
+<p align="left"> 
 <a href="https://github.com/AeolusZane/cloudflare-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" height="120px"/>
 </a>
