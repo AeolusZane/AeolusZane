@@ -51,8 +51,8 @@
 
 **Web3**
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="32" height="32" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="32" height="32" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="24" height="24" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="24" height="24" style="max-width: 100%;"></a>
 
 
 <h1 align="center">Recent Projects</h1>
