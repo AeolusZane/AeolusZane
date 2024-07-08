@@ -36,24 +36,24 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/nodejs.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/javascript.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/css.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/react.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/nodejs.png"></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="20" height="20" style="max-width: 100%;"></a></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/git.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/go.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/aws.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/python.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/java.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/c.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/mysql.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/mongodb.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/AeolusZane/iconfile/main/git.png"></code>
 
 **Web3:**
 
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="20" height="20" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="20" height="20" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="32" height="32" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="32" height="32" style="max-width: 100%;"></a></code>
 
 
 
