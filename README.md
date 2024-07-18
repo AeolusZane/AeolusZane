@@ -59,12 +59,16 @@
 
 <h1 align="center">Recent Projects</h1>
 
+### GameFi
+---
 <p align="left"> 
 <a href="https://github.com/AeolusZane/gamefi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" height="100px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" height="100px" alt="gamefi"/>
 </a>
 
+### Cloudflare
+---
 <a href="https://github.com/AeolusZane/cloudflare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare" height="100px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare" height="100px" alt="cloudflare"/>
 </a>
 </p>
