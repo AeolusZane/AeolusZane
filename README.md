@@ -68,7 +68,7 @@
 
 ### AI-APP
 ---
-<a href="https://github.com/AeolusZane/cloudflare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=ai-app" width="400px" alt="cloudflare"/>
+<a href="https://github.com/AeolusZane/ai-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=ai-app" width="400px" alt="ai-app"/>
 </a>
 </p>
