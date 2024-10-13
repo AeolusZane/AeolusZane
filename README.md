@@ -63,12 +63,12 @@
 ---
 <p align="left"> 
 <a href="https://github.com/AeolusZane/gamefi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" height="100px" alt="gamefi"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" width="400px" alt="gamefi"/>
 </a>
 
-### Cloudflare
+### AI-APP
 ---
 <a href="https://github.com/AeolusZane/cloudflare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=ai-app" height="100px" alt="cloudflare"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=ai-app" width="400px" alt="cloudflare"/>
 </a>
 </p>
