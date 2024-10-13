@@ -69,6 +69,6 @@
 ### Cloudflare
 ---
 <a href="https://github.com/AeolusZane/cloudflare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=cloudflare" height="100px" alt="cloudflare"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=ai-app" height="100px" alt="cloudflare"/>
 </a>
 </p>
