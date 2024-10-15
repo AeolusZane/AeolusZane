@@ -57,7 +57,7 @@
 
 <h1 align="center">Recent Projects</h1>
 
-<details>
+<details open>
 <summary>&nbsp;&nbsp;<b>😸 AI-APP</summary>
 
 <br>
@@ -66,13 +66,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=ai-app" width="400px" alt="ai-app"/>
 </a>
 </p>
-</br>
 
-  This's an app you can write your entries. 
+  - This's an app you can write your entries. 
 
-  By AI power, it can tell you what the mood of your journal entry is.
+  - By AI power, it can tell you what the mood of your journal entry is.
   
-  And it would try to analysis what you were feeling, saying, how you feel that day(pos or neg).
+  - And it would try to analysis what you were feeling, saying, how you feel that day(pos or neg).
 
 </details>
 
@@ -86,7 +85,7 @@
   </a>
 </br>
 
-  This is an dapp, deployed in the ethereum sepolia chain. U can buy some Heroes NFTs in this App.
+  - This is an dapp, deployed in the ethereum sepolia chain. U can buy some Heroes NFTs in this App.
 </details>
 
 <details>
@@ -99,7 +98,7 @@
   </a>
 </br>
 
-  This is an THREEJS Project, it's a polka dot design sphere, and has some circle hole, this project is from FrontendMaster's Course, ;).
+  - This is an THREEJS Project, it's a polka dot design sphere, and has some circle hole, this project is from FrontendMaster's Course, ;).
 </details>
 
 
