@@ -55,20 +55,38 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="32" height="32" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="32" height="32" style="max-width: 100%;"></a></code>
 
-
-
 <h1 align="center">Recent Projects</h1>
 
-### GameFi
----
-<p align="left"> 
-<a href="https://github.com/AeolusZane/gamefi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" width="400px" alt="gamefi"/>
-</a>
+<details>
+<summary>&nbsp;&nbsp;<b>😸 AI-APP</summary>
 
-### AI-APP
----
+<br>
+<p align="left"> 
 <a href="https://github.com/AeolusZane/ai-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=ai-app" width="400px" alt="ai-app"/>
 </a>
 </p>
+</br>
+
+  This's an app you can write your entries. 
+
+  By AI power, it can tell you what the mood of your journal entry is.
+  
+  And it would try to analysis what you were feeling, saying, how you feel that day(pos or neg).
+
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp;<b>🔥 GameFi</summary>
+
+<br>
+  <p align="left"> 
+  <a href="https://github.com/AeolusZane/gamefi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=gamefi" width="400px" alt="gamefi"/>
+  </a>
+</br>
+
+  This is an dapp, deployed in the ethereum sepolia chain. U can buy some Heroes NFTs in this App.
+</details>
+
+
