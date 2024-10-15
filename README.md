@@ -1,7 +1,15 @@
 <h1 align="center">Hey 👋, I'm Aeolus! </h1>
 
 <p>
-  Hi, I'm Aeolus, I am a front end engineer. I like to study code, like to build wheels, and have a neat mania for code. I am very optimistic about the development of Web, and I am also working on the research of Web technology. Moreover, I am learning web3 recently.
+  
+  Hi, I'm **Aeolus** 😈, I am a front end engineer. 
+  
+  I like to study code, like to build wheels, and have a neat mania for code. 
+  
+  I am very optimistic about the development of Web, and I am also working on the research of Web technology. 
+  
+  Moreover, I am learning **web3** recently.
+  
 </p>
 <a href="https://twitter.com/pingfj77">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
