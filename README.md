@@ -89,4 +89,17 @@
   This is an dapp, deployed in the ethereum sepolia chain. U can buy some Heroes NFTs in this App.
 </details>
 
+<details>
+  <summary>&nbsp;&nbsp;<b>🐰 WebGL-Polka-Dot</summary>
+
+<br>
+  <p align="left"> 
+  <a href="https://github.com/AeolusZane/WebGL-Polka-Dot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AeolusZane&repo=WebGL-Polka-Dot" width="400px" alt="WebGL-Polka-Dot"/>
+  </a>
+</br>
+
+  This is an THREEJS Project, it's a polka dot design sphere, and has some circle hole, this project is from FrontendMaster's Course, ;).
+</details>
+
 
