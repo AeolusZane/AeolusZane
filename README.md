@@ -8,7 +8,7 @@
   
   I am very optimistic about the development of Web, and I am also working on the research of Web technology. 
   
-  Moreover, I am learning **web3** recently.
+  Moreover, I am learning **web3** recently, and also build some interesting **AI** stuff.
   
 </p>
 <a href="https://twitter.com/pingfj77">
