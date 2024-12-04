@@ -77,7 +77,7 @@
 </a>
 </p>
 
-  - This's an app you can write your entries. 
+  - This's a app you can write your entries. 
 
   - By AI power, it can tell you what the mood of your journal entry is.
   
